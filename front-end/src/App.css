@@ -1,0 +1,25 @@
+.diagram-span {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.diagram-component {
+  width: 700px;
+  height: 700px;
+  border: solid 1px black;
+  background-color: white;
+  position: relative;
+  cursor: auto;
+}
+
+.palette-component {
+  width: 120px;
+  height: 700px;
+  position: relative;
+  cursor: auto;
+}
+
+.palette-span {
+  display: inline-block;
+  vertical-align: top;
+}
